@@ -12,7 +12,7 @@ if you have nodejs installed on your pc you can skip this or visit [Nodejs Websi
 ### step 2 : install kave cli
 Easily you can install kave cli with npm in your CMD in windows or terminal in linux  . 
 ```nodejs
-npm install kave -g
+npm install kave-cli -g
 
 ``` 
 
